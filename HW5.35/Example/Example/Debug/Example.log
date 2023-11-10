@@ -1,0 +1,8 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (Example.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.c
+d:\data\desktop\github\hw_1110\hw5.35\source\main.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  d:\data\desktop\github\hw_1110\hw5.35\source\main.c(15): note: 請考慮在格式字串中使用 '%lld'
+  d:\data\desktop\github\hw_1110\hw5.35\source\main.c(15): note: 請考慮在格式字串中使用 '%I64d'
+d:\data\desktop\github\hw_1110\hw5.35\source\main.c(28): warning C4018: '<=': signed/unsigned 不相符
+  Example.vcxproj -> D:\Data\Desktop\Github\HW_1110\HW5.35\Example\Example\..\..\temp\debug\HW5.35.exe
