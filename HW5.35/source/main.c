@@ -21,7 +21,7 @@ int main(void)
 
 unsigned long long int fibonacci(unsigned int Num)
 {
-	int a = 0, b = 1, fib, Temp;
+	unsigned long long int a = 0, b = 1, fib, Temp;
 	
 	if (Num > 2)
 	{
